@@ -25,7 +25,7 @@ function Projects() {
               title="Hospi"
               description="Private Chat Room or Workspace to have real time consultation with Doctors build with react.js, Node,js, and Express. Have features which allows user for messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/Iblissss/Projet-WEBSERVER"
-              demoLink="//www.hospicorp.com/b.app/"
+              demoLink="https://www.hospicorp.com/"
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Projects() {
               isBlog={false}
               title="The Minor 2D"
               description="The project I created is a captivating 2D game developed using JavaScript (JS). The game offers an interactive and entertaining experience for players. With attractive graphics and fluid game mechanics, it offers stimulating challenges and levels."
-              ghLink=""
+              ghLink="https://github.com/Iblissss/Minor-2D"
             />
           </Col>
 
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={cube}
               isBlog={false}
               title="Cube"
-              description=""
+              description="Our project is an online education platform that aims to make learning accessible to all. With interactive courses, high-quality educational materials, and advanced collaboration tools, our platform provides an immersive and engaging learning experience. Students can choose from a variety of courses in different fields, interact with their peers and instructors, and achieve their full potential, regardless of their constraints."
               ghLink=""              
             />
           </Col>
